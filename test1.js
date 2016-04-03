@@ -1,4 +1,4 @@
 
-console.log('Hello, World!');
-console.log('made some changes first');
-console.log('Bye Bye');
+console.error('Hello, World!');
+console.error('made some changes first');
+console.error('Bye Bye');
