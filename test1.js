@@ -1,5 +1,6 @@
 
-console.log('no japanese');
-console.log('no no');
-console.log('i hate scar');
+console.error('no japanese');
+console.error('no no');
+console.error('i hate scar');
+
 
