@@ -1,4 +1,5 @@
 
-console.log('Hello, World!');
-console.log('made some changes first');
-console.log('Bye Bye');
+console.log('no japanese');
+console.log('no no');
+console.log('i hate scar');
+
