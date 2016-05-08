@@ -9,10 +9,8 @@ function Color( name )
 
 Color.prototype.SayHi = function( towho )
 {
-	var self = this;
-
 	setTimeout( function(){	
-			console.log("Hello " + towho + ", I am " + self.name ) }, 0);
+			console.log("Hello " + towho + ", I am " + this.name ) }, 0);
 }
 
 
